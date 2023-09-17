@@ -1,0 +1,7 @@
+add vector and base maps         --- done 
+cloropeth maps                   --- done
+pixel feature data visualize     --- done
+table                            --- done
+add multibasemap                 --- not done
+make poster in hindi             --- not done
+
